@@ -8,7 +8,7 @@ axios('https://api-icm.wax.io/api/IItemSubmission/read', {
         method: 'get',
         data: {
             "api_token": YOUR_API_KEY,
-            "submission_id": SUBMISSION_ID,
+            "submission_id": 10,
         },
     })
     .then(function (response) {
