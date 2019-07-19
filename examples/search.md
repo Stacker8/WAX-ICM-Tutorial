@@ -8,7 +8,7 @@ axios('https://api-icm.wax.io/api/IItemSubmission/search', {
         method: 'get',
         data: {
             "api_token": YOUR_API_KEY,
-            "q": Q,
+            "q": 'test',
         },
     })
     .then(function (response) {
