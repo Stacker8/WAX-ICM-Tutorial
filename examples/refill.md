@@ -8,8 +8,8 @@ axios('https://api-icm.wax.io/api/IItemSubmission/refill', {
         method: 'post',
         data: {
             "api_token": YOUR_API_KEY,
-            "submission_id": SUBMISSION_ID,
-            "number_of_items_to_refill": NUMBER_OF_ITEMS_TO_REFILL
+            "submission_id": 10,
+            "number_of_items_to_refill": 100
         },
     })
     .then(function (response) {
