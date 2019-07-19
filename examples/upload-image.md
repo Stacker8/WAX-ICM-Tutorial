@@ -30,13 +30,13 @@ axios('https://api-icm.wax.io/api/IItemSubmission/upload-image', {
 
 Required
 ```javascript
-form.append('api_token', YOUR_API_KEY);
-form.append('image_file_to_upload', fs.createReadStream(__dirname + PATH_TO_THE_IMAGE));
+form.append('api_token', YOUR_API_KEY[string]);
+form.append('image_file_to_upload', fs.createReadStream(__dirname + PATH_TO_THE_IMAGE[string]));
 ```
 
 Non-Required
 ```javascript
-form.append('image_name', YOUR_CUSTOM_NAME);
+form.append('image_name', YOUR_CUSTOM_NAME[string]);
 ```
 
 **If the file got successfully uploaded we get following output**
