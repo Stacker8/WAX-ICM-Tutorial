@@ -27,4 +27,4 @@ The WAX-Creator will generate an APIKey and display it on the same site. Now you
 
 ![](https://i.imgur.com/spBn5S8.png)
 
-### Open the examples folder to continue
+### Open the [examples](https://github.com/Stacker8/WAX-ICM-Tutorial/tree/master/examples) folder to continue
