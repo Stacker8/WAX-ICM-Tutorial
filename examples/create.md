@@ -70,7 +70,7 @@ For more information [click here](https://github.com/worldwide-asset-exchange/wa
 { 
   success: true,
   message: null,
-  submission_id: 10
+  submission_id: CREATED_SUBMISSION_ID
 }
 ```
 
