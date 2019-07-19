@@ -19,7 +19,7 @@ Once the page is loaded, click at the top right on your username. A dropdown men
 
 ![](https://i.imgur.com/MeeWsYw.png)
 
-Now you have to find the button that says "ENABLE API KEY". If you found it, click on it.
+Now you find the button that says "ENABLE API KEY". If you found it, click on it.
 
 ![](https://i.imgur.com/RTy1phE.png)
 
