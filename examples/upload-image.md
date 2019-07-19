@@ -26,7 +26,7 @@ axios('https://api-icm.wax.io/api/IItemSubmission/upload-image', {
     });
 ```
 
-**For this request there are two required and one non-required paramater**
+**For this request there are two required and one non-required parameter**
 
 Required
 ```javascript
