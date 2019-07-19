@@ -31,7 +31,7 @@ Required
 }
 ```
 
-**If the file got successfully uploaded we get following output**
+**If the request was successfully posted we get following output**
 ```javascript
 { 
   success: true, 
