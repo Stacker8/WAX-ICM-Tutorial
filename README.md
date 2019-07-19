@@ -26,3 +26,5 @@ Now you have to find the button that says "ENABLE API KEY". If you found it, cli
 The WAX-Creator will generate an APIKey and display it on the same site. Now you can copy and paste it in your application.
 
 ![](https://i.imgur.com/spBn5S8.png)
+
+### Open the examples folder to continue
