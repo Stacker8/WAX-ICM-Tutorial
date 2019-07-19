@@ -10,7 +10,7 @@ axios('https://api-icm.wax.io/api/IItemSubmission/create', {
             "api_token": YOUR_API_KEY,
             "internal_app_id": 14,
             "name": "Test Item",
-            "market_name": "TEST ITEM",
+            "market_name": "Test Item",
             "image_generic": "https://static.wax.io/d-img/dynamic-apps/img/phpfdn9tp-1db5e2fb79.png",
             "amount": 100,
             "color": "#005cc5",
