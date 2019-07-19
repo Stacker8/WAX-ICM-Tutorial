@@ -13,7 +13,7 @@ axios('https://api-icm.wax.io/api/IItemSubmission/create', {
             "market_name": "TEST ITEM",
             "image_generic": "https://static.wax.io/d-img/dynamic-apps/img/phpfdn9tp-1db5e2fb79.png",
             "amount": 100,
-            "color": "white",
+            "color": "#005cc5",
             "rarity_name": "Legendary",
             "collection_name": "Test Collection",
             "external_id": 1,
