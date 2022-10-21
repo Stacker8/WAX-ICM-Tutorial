@@ -1,0 +1,12 @@
+Overview & History
+
+WAX is a purpose-built blockchain and protocol token designed to make e-commerce transactions faster, easier, and safer. The WAX Blockchain uses Delegated Proof of Stake (DPoS) as its consensus mechanism and is backward compatible with EOS. The custom features and incentive mechanisms developed by WAX are designed to optimize the blockchain's usability in e-commerce, and encourage voting on guilds and proposals.
+
+WAX has created a suite of blockchain-based tools upon which dApps, marketplaces, and native non-fungible tokens (NFTs) are built. These tools include services to support e-commerce operations such as the WAX Cloud Wallet, SSO and OAUTH, a native RNG service, and a developer portal. The resulting technology represents a blockchain architecture with 500 millisecond block times, no fees for customers, and leverages voting rewards to incentivize participation in the selection of block producers and proposals.
+
+History
+Worldwide Asset eXchange (WAX) is building a decentralized exchange for in-game items from online games. Players of online games often buy, sell, and exchange items such as in-game currencies and virtual objects like weapons or clothing called “skins.” The team believes that current centralized solutions are prone to issues such as lack of trust, where items might not be delivered or stolen, and the reliance on traditional cross-border payment systems.
+
+The project was created by QPSkins, which was launched in 2015 as a central trading platform for digital goods. Unlike the current QPSkins platform, WAX plans to be a decentralized platform where users can create their own online stores to exchange virtual goods, removing the need to trust a central third-party. A typical gaming marketplace consists of buyers, sellers, settlement agents, appraisers, affiliates and listing agents. The WAX platform aims to offer decentralized transaction settlement services for all participants while ensuring security and transparency through a blockchain and smart contracts.
+
+WAX believes that a decentralized marketplace will reduce risks, increase liquidity for in-game items, and remove barriers between borders. Currently, the project is focused on the gaming industry but the infrastructure is being designed to be flexible towards other use cases.
